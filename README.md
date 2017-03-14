@@ -9,7 +9,7 @@
 ![alt](http://blog.cnbang.net/wp-content/uploads/2015/03/ReactNative1.png)
 ###比较
 ####与Hybrid
-    * __Hybrid__ :基于H5的css,使用Native运行H5的网页，展现方便，交互复杂，资源占用大。实际是运行的是web网页，速度慢，体验一般。
-                write once,use anywhere.
-    * __RN__ :实现了对native的UI控件和模块方法的直接调用，速度接近原生体验。
+* __Hybrid__ :基于H5的css,使用Native运行H5的网页，展现方便，交互复杂，资源占用大。实际是运行的是web网页，速度慢，体验一般。
+                    write once,use anywhere.
+* __RN__ :实现了对native的UI控件和模块方法的直接调用，速度接近原生体验。
 ####与Native
