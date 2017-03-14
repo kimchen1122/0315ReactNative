@@ -5,8 +5,8 @@
 >少的学习就可以进入移动应用开发领域。
 
 ### 原理 ###
-    `JS`(`React`)-->`JS Bridge`-->`Native Bridge`-->`Native`(`IOS`/`Android`) <br>
-    `JS`脚本通过`bridge`实现了对`native`的`UI控件`和`模块方法`的直接调用
+>`JS`(`React`)-->`JS Bridge`-->`Native Bridge`-->`Native`(`IOS`/`Android`) <br>
+>`JS`脚本通过`bridge`实现了对`native`的`UI控件`和`模块方法`的直接调用
     ![alt](http://blog.cnbang.net/wp-content/uploads/2015/03/ReactNative1.png)
 
 ## 比较 ##
@@ -16,8 +16,7 @@
 
 ### 与Native ###
 * __`Native`__ :开发学习成本高，体验好。 
-* __`RN`__ :90%的展现可用`RN`开发完成，`Web`/`IOS`/`Android`大量代码可重用。
-
+* __`RN`__ :90%的展现可用`RN`开发完成，`Web`/`IOS`/`Android`大量代码可重用，`热更新`可以绕开市场更新应用。 
 ## 技术栈 ##
 
 * __`React.js`__ <br>Facebook前端框架
@@ -43,6 +42,7 @@
 * [从零学React Native](http://blog.csdn.net/column/details/react-native-study.html?&page=2) <br>
 * [React-Native学习指南](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) <br>
 ###组件收集
-* [React-Native学习指南](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) <br>
+* [js.coach](https://js.coach/react-native) <br>
 ##DEMO显示
+* __
 ##总结
