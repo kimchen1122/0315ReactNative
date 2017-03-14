@@ -17,8 +17,8 @@
 * __`RN`__ :90%的展现可用`RN`开发完成，`Web`/`IOS`/`Android`大量代码可重用。
 
 ###技术栈
->`React.js`<br>
-`Facebook`前端框架
+>__`React.js`__<br>
+	`Facebook`前端框架
 >>JSX DOM
 	    区别于HTML+CSS
 >>ES6/7
