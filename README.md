@@ -13,3 +13,16 @@
 * __RN__ :实现了对native的UI控件和模块方法的直接调用，速度接近原生体验。learn once,write anywhere。 
 
 ####与Native
+* __Native__ :开发学习成本高，体验好。 
+* __RN__ :90%的展现可用RN开发完成，Web/IOS/Android大量代码可重用。
+
+###技术栈
+>React.js
+	Facebook前端框架
+>>JSX DOM
+    区别于HTML+CSS
+>>ES6/7
+    新JS标准
+>Node.js
+	Google V8引擎,JS运行环境
+>>npm生态
