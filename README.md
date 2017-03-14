@@ -20,7 +20,7 @@
 >React.js
 	Facebook前端框架
 >>JSX DOM
-    区别于HTML+CSS
+	    区别于HTML+CSS
 >>ES6/7
     新JS标准
 >Node.js
