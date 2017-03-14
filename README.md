@@ -7,6 +7,6 @@ React Native：React Native (简称RN)是Facebook于2015年4月开源的跨平�
 ![alt](http://blog.cnbang.net/wp-content/uploads/2015/03/ReactNative1.png)
 ###比较
 ####与Hybrid
-*'Hybrid':基于H5的css,使用Native运行H5的网页，展现方便，交互复杂，资源占用大。实际是运行的是web网页。write once,use anywhere
-*'RN':
+    *Hybrid:基于H5的css,使用Native运行H5的网页，展现方便，交互复杂，资源占用大。实际是运行的是web网页。write once,use anywhere
+    *RN:
 ####与Native
